@@ -6,6 +6,10 @@ This repository contains the source code used by the [Yo Office generator](https
 
 https://docs.microsoft.com/en-us/outlook/add-ins/addin-tutorial
 
+## Setup
+
+Run npm install, then npm start to run
+
 ## JavaScript
 
 This template is written using JavaScript. For the [TypeScript](http://www.typescriptlang.org/) version of this template, go to [Office-Addin-TaskPane](https://github.com/OfficeDev/Office-Addin-TaskPane).
